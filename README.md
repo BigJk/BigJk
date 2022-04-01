@@ -15,7 +15,7 @@ There is always a new language to try, a new paradigm to learn, a new technology
 and much more...
 
 ### At my current job I do a wild combination of
-- Write code for microcontrollers like **ESP32** and **ARM** based chips
+- Write code for microcontrollers like **ESP32** and **ARM** based chips in **C** / **C++**
 - Build backends in **go**
 - Build desktop software with the help of web-technology like **electron**, **react**, **vue**...
 
