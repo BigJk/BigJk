@@ -1,6 +1,6 @@
 ### ``programming is my outlet of creativity``
 
-**Hello, I'm Daniel (25) and currently studying Computer Science 👋**
+**Hello, I'm Daniel (25, :de:) and currently studying Computer Science 👋**
 
 I started learning programming at a young age of 9 years and ever since writing software has been my passion and favorite hobby. Sinking countless hours into a million pet projects over many years just for fun. For me, Computer Science and Programming is like a never ending playground of new and exciting stuff to explore and learn.
 
