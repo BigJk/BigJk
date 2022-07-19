@@ -9,6 +9,7 @@ There is always a new language to try, a new paradigm to learn, a new technology
 ### I'm interested in
 - 📡 Backend (go) and everything network related 
 - 🖌️ Frontend (react, vue, mithril, much more...)
+- :computer: System Programming (C++ & C)
 - 🦠 Evolutionary Algorithms & Metaheuristics
 - 🔬 Reverse Engineering (IA-32, x64)
 
