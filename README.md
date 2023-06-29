@@ -44,3 +44,7 @@ There is always a new language to try, a new paradigm to learn, a new technology
 ``` 
 
 and much more...
+
+## Stats & More
+
+[![](https://github-profile-trophy.vercel.app/?username=BigJk&rank=SECRET,SS,SSS,S,A,AAA,AA&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
