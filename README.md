@@ -2,7 +2,7 @@
 
 ---
 
-- **Hello, I’m Daniel (26, 🇩🇪) 👋**
+- **Hello, I’m Daniel (27, 🇩🇪) 👋**
 - **I studied Computer Science at the Technical University Darmstadt**
 - **I love solving complex problems with simple code**
 - **Programming is not just my job, but my favorite hobby**
