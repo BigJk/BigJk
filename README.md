@@ -16,18 +16,17 @@ There is always a new language to try, a new paradigm to learn, a new technology
 **[Sales & Dungeons](https://github.com/BigJk/snd)** — Thermal Printer as D&D / TTRPG Utility <br>
 ![Relative date](https://img.shields.io/date/1582149660?label=creation) ![](https://img.shields.io/github/stars/BigJk/snd?style=social)
 
-**[ramen](https://github.com/BigJk/ramen)** — A simple console emulator for ascii games written in go <br>
-![Relative date](https://img.shields.io/date/1537183380?label=creation) ![](https://img.shields.io/github/stars/BigJk/ramen?style=social)
-
 **[End Of Eden](https://github.com/BigJk/end_of_eden)** — "Slay the Spire"-like roguelite fully in console with modding <br>
 ![Relative date](https://img.shields.io/date/1681126860?label=creation) ![](https://img.shields.io/github/stars/BigJk/end_of_eden?style=social)
-
-**[imeji](https://github.com/BigJk/imeji)** — Images for your terminal <br>
-![Relative date](https://img.shields.io/date/1683184680?label=creation) ![](https://img.shields.io/github/stars/BigJk/imeji?style=social)
 
 **[crt](https://github.com/BigJk/crt)** — Minimal terminal emulator for Bubbletea <br>
 ![Relative date](https://img.shields.io/date/1683877980?label=creation) ![](https://img.shields.io/github/stars/BigJk/crt?style=social)
 
+**[ramen](https://github.com/BigJk/ramen)** — A simple console emulator for ascii games written in go <br>
+![Relative date](https://img.shields.io/date/1537183380?label=creation) ![](https://img.shields.io/github/stars/BigJk/ramen?style=social)
+
+**[imeji](https://github.com/BigJk/imeji)** — Images for your terminal <br>
+![Relative date](https://img.shields.io/date/1683184680?label=creation) ![](https://img.shields.io/github/stars/BigJk/imeji?style=social)
 
 ## I'm interested in
 
