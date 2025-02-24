@@ -31,6 +31,9 @@ There is always a new language to try, a new paradigm to learn, a new technology
 **[clai](https://github.com/BigJk/clai)** — LLM workflow / macro helper <br>
 ![Relative date](https://img.shields.io/date/1736035200?label=creation) ![](https://img.shields.io/github/stars/BigJk/clai?style=social)
 
+**[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** — First Person Roguelike Dungeon Crawler with Monster Collection <br>
+![](https://img.shields.io/badge/wishlist-on_steam-blue)
+
 ## Publications
 
 > :page_facing_up: [BPoL: A Disruption-Tolerant LoRa Network for Disaster Communication](https://peasec.de/paper/2023/2023_SchmidtKuntkeBauerBaumgaertner_BPOL_GHTC.pdf)
