@@ -2,7 +2,7 @@
 
 ---
 
-- **Hello, I’m Daniel (27, 🇩🇪) 👋**
+- **Hello, I’m Daniel (28, 🇩🇪) 👋**
 - **I studied Computer Science at the Technical University Darmstadt**
 - **I love solving complex problems with simple code**
 - **Programming is not just my job, but my favorite hobby**
@@ -27,6 +27,14 @@ There is always a new language to try, a new paradigm to learn, a new technology
 
 **[imeji](https://github.com/BigJk/imeji)** — Images for your terminal <br>
 ![Relative date](https://img.shields.io/date/1683184680?label=creation) ![](https://img.shields.io/github/stars/BigJk/imeji?style=social)
+
+**[clai](https://github.com/BigJk/clai)** — LLM workflow / macro helper <br>
+![Relative date](https://img.shields.io/date/1736035200?label=creation) ![](https://img.shields.io/github/stars/BigJk/clai?style=social)
+
+## Publications
+
+> :page_facing_up: [BPoL: A Disruption-Tolerant LoRa Network for Disaster Communication](https://peasec.de/paper/2023/2023_SchmidtKuntkeBauerBaumgaertner_BPOL_GHTC.pdf)
+> <br>```2023 IEEE Global Humanitarian Technology Conference (GHTC) | DOI: 10.1109/GHTC56179.2023.10354717```
 
 ## I'm interested in
 
