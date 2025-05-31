@@ -32,7 +32,7 @@ There is always a new language to try, a new paradigm to learn, a new technology
 ![Relative date](https://img.shields.io/date/1736035200?label=creation) ![](https://img.shields.io/github/stars/BigJk/clai?style=social)
 
 **[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** — First Person Roguelike Dungeon Crawler with Monster Collection <br>
-![](https://img.shields.io/badge/wishlist-on_steam-blue)
+![](https://img.shields.io/badge/play_on-steam-blue)
 
 ## Publications
 
