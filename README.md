@@ -13,6 +13,9 @@ There is always a new language to try, a new paradigm to learn, a new technology
 
 ## Noteable Projects
 
+**[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** — First Person Roguelike Dungeon Crawler with Monster Collection <br>
+![](https://img.shields.io/badge/play_on-steam-blue)
+
 **[Sales & Dungeons](https://github.com/BigJk/snd)** — Thermal Printer as D&D / TTRPG Utility <br>
 ![Relative date](https://img.shields.io/date/1582149660?label=creation) ![](https://img.shields.io/github/stars/BigJk/snd?style=social)
 
@@ -30,9 +33,6 @@ There is always a new language to try, a new paradigm to learn, a new technology
 
 **[clai](https://github.com/BigJk/clai)** — LLM workflow / macro helper <br>
 ![Relative date](https://img.shields.io/date/1736035200?label=creation) ![](https://img.shields.io/github/stars/BigJk/clai?style=social)
-
-**[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** — First Person Roguelike Dungeon Crawler with Monster Collection <br>
-![](https://img.shields.io/badge/play_on-steam-blue)
 
 ## Publications
 
