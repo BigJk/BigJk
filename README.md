@@ -28,11 +28,11 @@ There is always a new language to try, a new paradigm to learn, a new technology
 **[ramen](https://github.com/BigJk/ramen)** — A simple console emulator for ascii games written in go <br>
 ![Relative date](https://img.shields.io/date/1537183380?label=creation) ![](https://img.shields.io/github/stars/BigJk/ramen?style=social)
 
+**[ImHTML](https://github.com/BigJk/ImHTML)** — Render HTML in ImGui <br>
+![Relative date](https://img.shields.io/date/1762165323?label=creation) ![](https://img.shields.io/github/stars/BigJk/ImHTML?style=social)
+
 **[imeji](https://github.com/BigJk/imeji)** — Images for your terminal <br>
 ![Relative date](https://img.shields.io/date/1683184680?label=creation) ![](https://img.shields.io/github/stars/BigJk/imeji?style=social)
-
-**[clai](https://github.com/BigJk/clai)** — LLM workflow / macro helper <br>
-![Relative date](https://img.shields.io/date/1736035200?label=creation) ![](https://img.shields.io/github/stars/BigJk/clai?style=social)
 
 ## Publications
 
@@ -75,4 +75,4 @@ and much more...
 
 ## Stats & More
 
-[![](https://github-profile-trophy.vercel.app/?username=BigJk&rank=SECRET,SS,SSS,S,A,AAA,AA&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://stable-github-profile-trophy.vercel.app/?username=BigJk&rank=SECRET,SS,SSS,S,A,AAA,AA&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
