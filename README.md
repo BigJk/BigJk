@@ -11,10 +11,7 @@ I started learning programming at the young age of 9 years, and ever since, writ
 
 There is always a new language to try, a new paradigm to learn, a new technology to explore, and problems that need a simple solution… and from each new input, however unconnected they might be, there is always a possibility to learn something that will later on help in writing simpler and ultimately better code.
 
-## Noteable Projects
-
-**[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** — First Person Roguelike Dungeon Crawler with Monster Collection <br>
-![](https://img.shields.io/badge/play_on-steam-blue)
+## Open Source Projects
 
 **[Sales & Dungeons](https://github.com/BigJk/snd)** — Thermal Printer as D&D / TTRPG Utility <br>
 ![Relative date](https://img.shields.io/date/1582149660?label=creation) ![](https://img.shields.io/github/stars/BigJk/snd?style=social)
@@ -33,6 +30,28 @@ There is always a new language to try, a new paradigm to learn, a new technology
 
 **[imeji](https://github.com/BigJk/imeji)** — Images for your terminal <br>
 ![Relative date](https://img.shields.io/date/1683184680?label=creation) ![](https://img.shields.io/github/stars/BigJk/imeji?style=social)
+
+*many more...*
+
+## Closed Source Projects
+
+I'm releasing video games and adjacent media under the project title [**Grave Hammer Games**](https://gravehammer.com/)!
+
+<img src="https://gravehammer.com/assets/project_gloamvault.png" width="180"></img></br>
+> **[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** <br>
+> — First Person Roguelike Dungeon Crawler with Monster Collection <br>
+
+</br>
+
+<img src="https://gravehammer.com/assets/project_dithermaster.png" width="180"></img></br>
+> **[DitherMaster](https://bigjk.itch.io/dithermaster)** <br>
+> — a lightweight, standalone dithering application for creating retro graphics. Transform your images with various algorithms! <br>
+
+</br>
+
+<img src="https://gravehammer.com/assets/project_dungeonos.png" width="180"></img></br>
+> **[DungeonOS](https://store.steampowered.com/app/4221660/DungeonOS/)** *(coming 2026)* <br>
+> — Fake Retro OS meets Dungeon Crawler and Match-3 Puzzles<br>
 
 ## Publications
 
@@ -71,8 +90,14 @@ There is always a new language to try, a new paradigm to learn, a new technology
 ╞═ IA-32, x64, ...
 ``` 
 
+🎲 **Other Stuff**
+
+```
+TTRPGs, Magic The Gathering, Dungeon Synth, Heavy Metal, Jazz, Traveling...
+```
+
 and much more...
 
-## Stats & More
+## Stats
 
 [![](https://stable-github-profile-trophy.vercel.app/?username=BigJk&rank=SECRET,SS,SSS,S,A,AAA,AA&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
