@@ -22,9 +22,6 @@ There is always a new language to try, a new paradigm to learn, a new technology
 **[crt](https://github.com/BigJk/crt)** — Minimal terminal emulator for Bubbletea <br>
 ![Relative date](https://img.shields.io/date/1683877980?label=creation) ![](https://img.shields.io/github/stars/BigJk/crt?style=social)
 
-**[ramen](https://github.com/BigJk/ramen)** — A simple console emulator for ascii games written in go <br>
-![Relative date](https://img.shields.io/date/1537183380?label=creation) ![](https://img.shields.io/github/stars/BigJk/ramen?style=social)
-
 **[ImHTML](https://github.com/BigJk/ImHTML)** — Render HTML in ImGui <br>
 ![Relative date](https://img.shields.io/date/1762165323?label=creation) ![](https://img.shields.io/github/stars/BigJk/ImHTML?style=social)
 
