@@ -34,19 +34,19 @@ There is always a new language to try, a new paradigm to learn, a new technology
 
 I'm releasing video games and adjacent media under the project title [**Grave Hammer Games**](https://gravehammer.com/)!
 
-<img src="https://gravehammer.com/assets/project_gloamvault.png" width="180"></img></br>
+<img src="https://gravehammer.com/user/themes/gravehammer/assets/project_gloamvault.png" width="180"></img></br>
 > **[Gloamvault](https://store.steampowered.com/app/3460840/Gloamvault/)** <br>
 > — First Person Roguelike Dungeon Crawler with Monster Collection <br>
 
 </br>
 
-<img src="https://gravehammer.com/assets/project_dithermaster.png" width="180"></img></br>
+<img src="https://gravehammer.com/user/themes/gravehammer/assets/project_dithermaster.png" width="180"></img></br>
 > **[DitherMaster](https://bigjk.itch.io/dithermaster)** <br>
 > — a lightweight, standalone dithering application for creating retro graphics. Transform your images with various algorithms! <br>
 
 </br>
 
-<img src="https://gravehammer.com/assets/project_dungeonos.png" width="180"></img></br>
+<img src="https://gravehammer.com/user/themes/gravehammer/assets/project_dungeonos.png" width="180"></img></br>
 > **[DungeonOS](https://store.steampowered.com/app/4221660/DungeonOS/)** *(coming 2026)* <br>
 > — Fake Retro OS meets Dungeon Crawler and Match-3 Puzzles<br>
 
