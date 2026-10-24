@@ -40,14 +40,14 @@ I'm releasing video games and adjacent media under the project title [**Grave Ha
 
 </br>
 
-<img src="https://gravehammer.com/user/themes/gravehammer/assets/project_dithermaster.png" width="180"></img></br>
-> **[DitherMaster](https://bigjk.itch.io/dithermaster)** <br>
-> — a lightweight, standalone dithering application for creating retro graphics. Transform your images with various algorithms! <br>
+<img src="https://gravehammer.com/user/themes/gravehammer/assets/project_dithermaster_studio.png" width="180"></img></br>
+> **[DitherMaster Studio](https://get-dithermaster.gravehammer.com/)** <br>
+> — Standalone dithering workstation for creating retro graphics. Transform your images with various algorithms! <br>
 
 </br>
 
 <img src="https://gravehammer.com/user/themes/gravehammer/assets/project_dungeonos.png" width="180"></img></br>
-> **[DungeonOS](https://store.steampowered.com/app/4221660/DungeonOS/)** *(coming 2026)* <br>
+> **[DungeonOS](https://store.steampowered.com/app/4221660/DungeonOS/)** <br>
 > — Fake Retro OS meets Dungeon Crawler and Match-3 Puzzles<br>
 
 ## Publications
